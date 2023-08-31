@@ -7,3 +7,6 @@ while i < 6:
   print(i)
   i += 1
 ```
+- [x] banana
+- [ ] apple
+- [ ] tomato
